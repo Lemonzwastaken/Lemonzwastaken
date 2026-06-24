@@ -13,7 +13,7 @@ High school student who codes (or at least tries to). <br>I also mess around wit
 ---
 
 # Favourite Projects:
-- **MyPass** — My first ever better project I worked on, spent over 7 hours on it. Didn't like a single second but I was proud of what I made :)
-- **BadBot** - My first ever working game I ever made, this I enjoyed more than mypass, the game is a mess tho ngl :p
-- **NeedMoreFuel** - A better game I worked on which was somewhat of own passion project.
+- **MyPass**: My first ever better project I worked on, spent over 7 hours on it. Didn't like a single second but I was proud of what I made :)
+- **BadBot**: My first ever working game I ever made, this I enjoyed more than mypass, the game is a mess tho ngl :p
+- **NeedMoreFuel**: A better game I worked on which was somewhat of own passion project.
 
