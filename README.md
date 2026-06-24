@@ -12,8 +12,19 @@ High school student who codes (or at least tries to). <br>I also mess around wit
 ### Lapse is the time I spent on Unreal Engine as of now
 ---
 
-# Favourite Projects:
-- **MyPass**: My first ever better project I worked on, spent over 7 hours on it. Didn't like a single second but I was proud of what I made :)
-- **BadBot**: My first ever working game I ever made, this I enjoyed more than mypass, the game is a mess tho ngl :p
-- **NeedMoreFuel**: A better game I worked on which was somewhat of own passion project.
+# Recent Projects:
+
+- RedHood: A 2D fighting game made in Unreal Engine
+
+Time Spent: ![RedHood](https://hackatime.hackclub.com/api/v1/badge/U092BLMKNQN/Lemonzwastaken/RedHood)
+
+- NeedMoreFuel!!!: A relaxed platformer with cool music, janky physics and quirky npcs (only the demo out right now)
+
+Time Spent: ![NeedMoreFuel!!!](https://hackatime.hackclub.com/api/v1/badge/U092BLMKNQN/Lemonzwastaken/NeedMoreFuel)
+
+- BadBot: First-ever game made on Unreal Engine. A drone shooter with Bad AI and fun movement
+
+Time Spent: ![BadBot](https://hackatime.hackclub.com/api/v1/badge/U092BLMKNQN/Lemonzwastaken/BadBot)
+
+
 
